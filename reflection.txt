@@ -1,0 +1,4 @@
+
+Based on this lab, using branches is a powerful and safe way for a team of software engineers to collaborate on a signle project
+because it allows engineers to work independently without affecting other's progress and the main code. In this lab, team members 
+can try and test new code in the seperate branch to make sure it works before merging to the main code.
